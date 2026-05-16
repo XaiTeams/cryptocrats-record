@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/congressional-record/:path*", "destination": "/index.html" }
+  ]
+}
